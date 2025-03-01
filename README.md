@@ -2,7 +2,7 @@
 
 ## 📝 Giới Thiệu
 
-Tinh Hoa Việt là một website giới thiệu các sản phẩm truyền thống của Việt Nam. Website được thiết kế với giao diện thân thiện, hiện đại sử dụng hai màu chủ đạo là đỏ và vàng - hai màu sắc đặc trưng trong văn hóa Việt Nam.
+Tinh Hoa Việt là một website giới thiệu các sản phẩm truyền thống của Việt Nam. Website được thiết kế với giao diện thân thiện, hiện đại sử dụng hai màu chủ đạo là xanh lá cây và cam nhạt - tạo nên sự hài hòa gần gũi với thiên nhiên và văn hóa truyền thống Việt Nam.
 
 Dự án hướng đến việc quảng bá và giới thiệu những sản phẩm thủ công truyền thống của Việt Nam đến với cộng đồng trong nước và quốc tế, góp phần bảo tồn và phát huy những giá trị văn hóa truyền thống.
 
@@ -12,7 +12,7 @@ Dự án hướng đến việc quảng bá và giới thiệu những sản ph�
 -   **Điều hướng mượt mà**: Các liên kết trên trang web đều có tính năng cuộn mượt mà.
 -   **Hiệu ứng tương tác**: Các phần tử trên trang có hiệu ứng hover và animation nhằm tăng trải nghiệm người dùng.
 -   **Form liên hệ**: Tích hợp form liên hệ với tính năng kiểm tra dữ liệu nhập.
--   **Thiết kế hiện đại**: Sử dụng màu sắc đỏ và vàng truyền thống kết hợp với thiết kế hiện đại.
+-   **Thiết kế hiện đại**: Sử dụng màu sắc xanh lá cây và cam nhạt kết hợp với thiết kế hiện đại.
 
 ## 🛠️ Công Nghệ Sử Dụng
 
@@ -35,8 +35,8 @@ Dự án hướng đến việc quảng bá và giới thiệu những sản ph�
 
 ## 🎨 Màu Sắc Chủ Đạo
 
--   **Đỏ** (#c8102e): Tượng trưng cho may mắn, thịnh vượng trong văn hóa Việt Nam.
--   **Vàng** (#ffde00): Biểu tượng của sự giàu có, sang trọng, được sử dụng nhiều trong các họa tiết truyền thống.
+-   **Xanh lá cây** (#2e7d32): Tượng trưng cho sự gần gũi với thiên nhiên, sự sinh sôi và phát triển trong văn hóa Việt Nam.
+-   **Cam nhạt/Vàng đất** (#ffc107): Biểu tượng cho sự ấm áp, thân thiện và gắn kết cộng đồng, thường thấy trong nhiều họa tiết dân gian truyền thống.
 
 ## 🚀 Hướng Dẫn Sử Dụng
 

@@ -1,15 +1,15 @@
 /* Variables */
 :root {
-    --primary-color: #c8102e;
-    /* Vietnamese flag red */
-    --secondary-color: #ffde00;
-    /* Vietnamese flag yellow/gold */
+    --primary-color: #2e7d32;
+    /* Màu xanh lá cây chủ đạo */
+    --secondary-color: #ffc107;
+    /* Màu cam nhạt/vàng đất phụ */
     --text-color: #333;
     --light-color: #fff;
-    --dark-accent: #8a0000;
-    /* Darker red for hover effects */
-    --light-accent: #fff6cc;
-    /* Light yellow for backgrounds */
+    --dark-accent: #1b5e20;
+    /* Darker green for hover effects */
+    --light-accent: #fff8e1;
+    /* Light amber for backgrounds */
     --gray: #f4f4f4;
 }
 
